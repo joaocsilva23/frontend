@@ -9,7 +9,7 @@ Este repositório reúne **todas as atividades desenvolvidas na disciplina de Fr
 Aqui você encontrará exercícios e projetos:
 ## 🎯 Objetivo
 
-O objetivo destas atividades é praticar os conceitos fundamentais do desenvolvimento Front-End, aprimorando a criação de páginas web, estilização, interatividade e organização do código.
+O objetivo destas atividades é praticar os conceitos fundamentais do desenvolvimento Front-End, aprimorando a criação de páginas web, interatividade e organização do código.
 
 ## 📁 Organização
 
